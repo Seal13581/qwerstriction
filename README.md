@@ -1,2 +1,0 @@
-# qwerstriction
-qwerstriction
