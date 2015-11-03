@@ -41,4 +41,3 @@ Ban player model for each group(you can't ban kleiner model)
 
 10) Other 
 Grant access to QWERSTRICTION to other groups 
--------------------------------------------------------------------------------------------------------- 
