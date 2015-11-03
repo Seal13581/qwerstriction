@@ -1,3 +1,5 @@
+Just copy qwerstriction folder to addons folder in your gmod folder.
+
 Reject weapons from players,add weapons after player spawn and allow/disallow sandbox stuff with this admin tool. 
 ------------------------------------------------------------------------------------------------------- 
 1) You must to be superadmin 
